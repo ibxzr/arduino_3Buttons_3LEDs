@@ -30,7 +30,7 @@ Each LED is connected in series with a 220Ω resistor, and each button has a 10k
 - Press Button 3 → LED 3 turns ON
 
 ## 📷 Output
-![Output Wiring](output_wiring.jpj)
+![Output Wiring](output_wiring.jpg)
 
 ## 💻 Arduino Code
 
